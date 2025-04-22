@@ -21,19 +21,23 @@ Laplacian Filter for Edge Detection
   bashpip install opencv-python matplotlib numpy
 
 ## ▶️ Usage
-1. **Update the image path in the script: input_image_path = r'your_path'**
-Run the script: python your_script_name.py
-The script will display each processing step along with its histogram.
+1. **Update the image path in the script:** 
+    input_image_path = r'your_path'
 
-📁 Project Structure
-📦 image-enhancement-project  
- ┣ 📜 enhance.py  
- ┣ 📷 sample_image.jpg  
- ┗ 📄 README.md
-📌 Notes
+2. **Run the script:** 
+    python your_script_name.py
 
-Works best with clear, well-lit images.
-This tool is educational and demonstrates the effect of multiple preprocessing techniques step-by-step.
+3. **The script will display each processing step along with its histogram.**
 
-📝 License
-This project is open-source under the MIT License.
+## 📁 Project Structure
+    📦 image-enhancement-project  
+     ┣ 📜 enhance.py  
+     ┣ 📷 sample_image.jpg  
+     ┗ 📄 README.md
+
+## 📌 Notes
+    Works best with clear, well-lit images.
+    This tool is educational and demonstrates the effect of multiple preprocessing techniques step-by-step.
+
+## 📝 License
+    This project is open-source under the MIT License.
