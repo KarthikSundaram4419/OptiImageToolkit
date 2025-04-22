@@ -26,26 +26,24 @@ This Python-based image processing project improves image quality using a series
   pip install opencv-python matplotlib numpy
 
 ## ▶️ Usage
-1. **Update the image path in the script:**
-    input_image_path = r'your_path'
+Update the image path in the script: input_image_path = r'your_path'
 
-2. **Run the script:**
-    python your_script_name.py
+Run the script: python your_script_name.py
 
-3. **The script will display each processing step along with its histogram.**
+The script will display each processing step along with its histogram.
 
-## 📁 Project Structure
+📁 Project Structure
 arduino
 Copy
 Edit
-📦 image-enhancement-project
- ┣ 📜 enhance.py
- ┣ 📷 sample_image.jpg
- ┗ 📄 README.md
+📦 image-enhancement-project  
+ ┣ 📜 enhance.py  
+ ┣ 📷 sample_image.jpg  
+ ┗ 📄 README.md  
+📌 Notes
+Works best with clear, well-lit images.
 
-## 📌 Notes
-  Works best with clear, well-lit images.
-  This tool is educational and demonstrates the effect of multiple preprocessing techniques step-by-step.
+This tool is educational and demonstrates the effect of multiple preprocessing techniques step-by-step.
 
-## 📝 License
-  This project is open-source under the MIT License.
+📝 License
+This project is open-source under the MIT License.
